@@ -16,7 +16,7 @@ namespace CourseWork
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Family_Doctor());
+            Application.Run(new Family_Doctor()); ;
         }
     }
 }

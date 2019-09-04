@@ -10,7 +10,7 @@ namespace CourseWork
 {
     public class Patient
     {
-        string _full_name;              //ФИО  
+        string _full_name;               
         string _family;                 //Семья [по фамилии]
         string _gender;                 //Пол 
         int _age;                       //Возраст 
